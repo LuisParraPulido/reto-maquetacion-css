@@ -20,6 +20,10 @@ Debes desarrollar todas las pantallas de un blog usando html y css.
 
 ![img](https://github.com/LuisParraPulido/reto-maquetacion-css/master/example/Article.png)
 
+### Perfil
+
+![img](https://github.com/LuisParraPulido/reto-maquetacion-css/master/example/Perfil.png)
+
 ## Recursos
 
 - Lás imágenes para usar están dentro de `assets/img`.
