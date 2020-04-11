@@ -4,25 +4,27 @@ Debes desarrollar todas las pantallas de un blog usando html y css.
 
 ## Tareas
 
+- Debes hacer un "Fork" de este proyecto.
 - Creación de la estructura Html.
 - Se debe dividir y estructurar el proyecto por pantallas.
 - Usar la metodología BEM.
+- Revolver los problemas y crear un Pull Request hacia este repositorio.
 
 ### Home
 
-![img](https://github.com/LuisParraPulido/reto-maquetacion-css/master/example/Home.png)
+![img](https://github.com/LuisParraPulido/reto-maquetacion-css/blob/reto-silvia/example/Home.png)
 
 ### Blogs
 
-![img](https://github.com/LuisParraPulido/reto-maquetacion-css/master/example/Blog.png)
+![img](https://github.com/LuisParraPulido/reto-maquetacion-css/blob/reto-silvia/example/Blog.png)
 
 ### Blog-article
 
-![img](https://github.com/LuisParraPulido/reto-maquetacion-css/master/example/Article.png)
+![img](https://github.com/LuisParraPulido/reto-maquetacion-css/blob/reto-silvia/example/Article.png)
 
 ### Perfil
 
-![img](https://github.com/LuisParraPulido/reto-maquetacion-css/master/example/Perfil.png)
+![img](https://github.com/LuisParraPulido/reto-maquetacion-css/blob/reto-silvia/example/Perfil.png)
 
 ## Recursos
 
@@ -33,8 +35,4 @@ Debes desarrollar todas las pantallas de un blog usando html y css.
 ## Recurso original
 
 https://platzi.com/clases/practico-css/
-
-
-### Enviar solución de reto
-Debes hacer un "Fork" de este proyecto, darle permisos a tu compañero de trabajo, revolver los problemas y crear un Pull Request hacia este repositorio.
 
